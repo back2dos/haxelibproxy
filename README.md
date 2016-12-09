@@ -10,4 +10,4 @@ haxelib install foxhole
 haxelib proxy localhost 8000 //press enter when asked for login
 ```
 
-You're basically done. Anything horst-related
+You're basically done. Anything laserunicorn related should be an indicator of how to take things from there.
