@@ -1,5 +1,5 @@
 @echo off
-cd bin
-start neko haxelibprivate.n
+start neko bin/haxelibprivate.n
 haxelib install horst
+haxelib install laserunicorn
 pause
